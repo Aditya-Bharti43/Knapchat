@@ -1,0 +1,9 @@
+To start the chat application 
+You need to start the nodeserver
+
+Type the following in terminal
+
+-> cd nodeserver
+-> nodemon \index.js
+
+This will satrt the nodeserver and the application in turn .
